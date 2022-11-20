@@ -38,7 +38,7 @@ class BitAlarmState extends State<BitAlarm> {
           ChangeNotifierProvider<WalletsModel>(create: (_) => WalletsModel()),
         ],
         child: MaterialApp(
-          title: 'BitAlarm',
+          title: 'BitAlarm Test Yo',
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
             primaryColorDark: Colors.black87,
